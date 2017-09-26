@@ -319,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  color: #fff;
+  /*color: #fff;*/
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -609,7 +609,7 @@ h1, h2, h3, h4, h5, h6 {
 .fh5co-section {
   padding: 7em 0;
   position: relative;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(2, 2, 2, 0.5);
 }
 #fh5co-main small,
 .fh5co-section small {
@@ -619,7 +619,7 @@ h1, h2, h3, h4, h5, h6 {
 .fh5co-section .fh5co-lead {
   font-size: 26px;
   line-height: 38px;
-  color: rgba(255, 255, 255, 0.6);
+  color: #222;
 }
 @media screen and (max-width: 768px) {
   #fh5co-main .fh5co-lead,
@@ -679,7 +679,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 .fh5co-section-heading .fh5co-number {
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(2, 2, 2, 0.2);
   padding-bottom: 2px;
   margin-right: 10px;
   display: -moz-inline-stack;
